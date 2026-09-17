@@ -15,7 +15,7 @@ public class FilterExtractChannels implements Filter {
 	 */
 	public FilterExtractChannels(int[] validChannels) {
 		// TODO
-		
+		Measurement[] array=new Measurement[validChannels.length];
 	}
 
 	@Override
